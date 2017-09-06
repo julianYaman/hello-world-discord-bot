@@ -70,6 +70,6 @@ client.on("message", (message) => {
 });
 
 // function which log in the bot
-client.login("Mjc0OTQ1NDQyMTYzNDU4MDQ4.DIhxEA.TWa5cXQwinmTOpWQq_2yyyj7R-s");
+client.login("your token");
 
 
