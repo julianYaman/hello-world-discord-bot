@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/julianYaman/hello-world-discord-bot.git"
   },
+  "scripts": {
+    "test": "node main.js"
+  },
   "keywords": [
     "Discord.js",
     "Discord",
