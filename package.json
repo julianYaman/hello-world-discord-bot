@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/julianYaman/hello-world-discord-bot#readme",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^12.4.0"
   }
 }
